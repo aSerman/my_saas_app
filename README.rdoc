@@ -1,6 +1,6 @@
 == README
 
-My SaaS App Project
+My SaaS App Project - Code My App
 Subscription-based web application
 http://www.agnesserman.com
 
