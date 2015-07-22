@@ -12,11 +12,11 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
-gem 'dotenv-rails'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 
 group :development, :test do
+  gem 'dotenv-rails'
   gem 'spring'
 end
 
